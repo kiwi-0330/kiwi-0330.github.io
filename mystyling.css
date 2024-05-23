@@ -9,3 +9,31 @@ h1.center {
 p.center {
     text-align: center;
 }
+
+body {
+    font-family: sans-serif;
+  }
+  
+  h1, h2 {
+    margin-top: 20px;
+  }
+  
+  #posts {
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  .post {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .post-title {
+    font-weight: bold;
+  }
+  
+  .post-timestamp {
+    font-size: 0.8em;
+    color: #aaa;
+  }  
