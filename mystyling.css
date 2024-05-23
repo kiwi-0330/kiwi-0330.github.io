@@ -1,1 +1,11 @@
 /* this will be the main style page for the site */
+
+/* Heading 1 should be used for page titles and similar top level items */
+h1.center {
+    text-align:center;
+}
+
+/* paragraph styling */
+p.center {
+    text-align: center;
+}
