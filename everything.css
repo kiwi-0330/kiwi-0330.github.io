@@ -2,7 +2,7 @@ body {
     background-color: rgba(255, 218, 185, 0.2);
 }
 
-div.prompt {
+span.prompt {
     border-left-style: solid;
     border-width: 5px;
     border-color: PeachPuff;
