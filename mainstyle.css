@@ -14,6 +14,10 @@ p.center {
     text-align: center;
 }
 
+p {
+  font-size: 11pt;
+}
+
 body {
     font-family: "IBM Plex Sans", sans-serif;
   }
